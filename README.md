@@ -1,12 +1,16 @@
 # Olá, eu sou Pedro Henrique! 👋
 
-### Tecnologias
-- Linguagens: JavaScript, Python, HTML/CSS
-- Frameworks: React, Node.js, Django
+## Bem vindo ao meu github
+
+## Sobre mim:
+18 anos, estudante de Sistemas Para Internet - P3 UNIPÊ, apaixonado por desenvolvimento WEB.
+
+
+### Skills
+
+[![Skills](https://skillicons.dev/icons?i=,html,css,js,nodejs,php,python,django,mysql,docker)](https://skillicons.dev)
 
 ## Contatos
-- [LinkedIn](link)
-- [Twitter](link)
-- [E-mail](seuemail@example.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohaugusto12@gmail.com)
 
