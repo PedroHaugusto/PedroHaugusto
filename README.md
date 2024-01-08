@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá, sou [Seu Nome]! 👋
 
-<!--
-**PedroHaugusto/PedroHaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e criando soluções inovadoras. Atualmente, me concentro em [suas principais áreas de interesse ou especialização].
 
-Here are some ideas to get you started:
+## Destaques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos Principais
+- [Nome do Projeto](link): Breve descrição do projeto.
+- [Nome do Projeto](link): Breve descrição do projeto.
+- [Nome do Projeto](link): Breve descrição do projeto.
+
+### Tecnologias
+- Linguagens: JavaScript, Python, HTML/CSS
+- Frameworks: React, Node.js, Django
+
+## Estatísticas
+- 🌟 [Número] repositórios criados
+- 💼 [Número] contribuições nos últimos meses
+- 👥 [Número] seguidores no GitHub
+
+## Como me encontrar
+- [LinkedIn](link)
+- [Twitter](link)
+- [E-mail](seuemail@example.com)
+
+## Exemplos e Inspiração
+Me inspirei nos perfis de [Nome do Perfil](link) e [Nome do Perfil](link) para criar este README!
+
+---
+Sinta-se à vontade para entrar em contato, explorar meus projetos e conectar-se! 😊🚀
+
