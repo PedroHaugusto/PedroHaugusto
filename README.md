@@ -8,7 +8,7 @@
 
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=,html,css,js,nodejs,php,python,django,mysql,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=php,python,django,mysql,docker)](https://skillicons.dev)
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
