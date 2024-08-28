@@ -3,11 +3,11 @@
 ## Bem vindo ao meu github
 
 ## Sobre mim:
-Desenvolvedor back-end em busca de desafios na área de tecnologia. Atualmente, estou me especializando em Java e Spring, além de possuir sólidos conhecimentos em Python, Django e APIs RESTful. Tenho experiência em criar soluções robustas e escaláveis, desenvolvendo APIs.
+Desenvolvedor back-end em busca de desafios na área de tecnologia. Atualmente, estou me especializando em C# e .NET, além de possuir sólidos conhecimentos em Python, Django e APIs RESTful. Tenho experiência em criar soluções robustas e escaláveis, desenvolvendo APIs.
 
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,python,django,mysql,postgres,docker,git,postman)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,python,django,mysql,postgres,docker,git,postman)](https://skillicons.dev)
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
