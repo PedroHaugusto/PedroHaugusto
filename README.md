@@ -7,7 +7,7 @@ Desenvolvedor back-end em busca de desafios na área de tecnologia. Atualmente, 
 
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=cs,dotnet,python,django,mysql,postgres,docker,git,postman)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,python,django,mysql,postgres,docker,git,postman)](https://skillicons.dev)
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
