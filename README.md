@@ -3,7 +3,9 @@
 ## Bem vindo ao meu github
 
 ## Sobre mim:
-Desenvolvedor back-end em busca de desafios na área de tecnologia. Atualmente, estou me especializando em C# e .NET, além de possuir sólidos conhecimentos em Python, Django e APIs RESTful. Tenho experiência em criar soluções robustas e escaláveis, desenvolvendo APIs.
+Desenvolvedor Back-End com foco em C#, .NET e ASP.NET. Tenho experiência na criação de soluções escaláveis e robustas, implementando APIs, serviços em background e microsserviços. Realizei deploys utilizando o Azure para garantir alta disponibilidade e desempenho dos sistemas.
+
+Atualmente, estou cursando Sistemas para Internet , expandindo meu conhecimento em desenvolvimento web e me especializando em C# e .NET para construir arquiteturas eficientes e de alto desempenho.
 
 ### Skills
 
