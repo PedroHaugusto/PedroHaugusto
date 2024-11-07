@@ -3,11 +3,11 @@
 ## Bem vindo ao meu github
 
 ## Sobre Mim
-Desenvolvedor Back-end com paixão por criar APIs escaláveis e soluções eficientes. Tenho experiência em diversas stacks, incluindo Nest.JS, Python com Django, e C#/.NET. Meu foco está em entregar código de qualidade e otimizar processos, seja implementando automações inteligentes com NodeMailer ou desenvolvendo motores de IA e WebScraping para uso em aplicações de grande impacto. Além disso, trabalho com metodologias ágeis e utilizo ferramentas como GitHub e GitLab para garantir colaboração e versionamento eficazes.
+Desenvolvedor especializado em Back-end, com 1 ano e meio de experiência, focado em .NET e Spring. Tenho experiência na criação de APIs escaláveis e eficientes, além de um sólido histórico em Django. Atuei com arquitetura de microsserviços e implementação de soluções em nuvem utilizando Azure e AWS. Conheço e aplico os princípios de SOLID e Design Patterns para garantir soluções robustas e de alta performance. Possuo a certificação Scrum Foundation Professional Certification - SFPC™ da CertiProf. 
 
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nestjs,mysql,azure,postgres,docker,git,postman)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,aws,azure,postgres,docker,git,postman)](https://skillicons.dev)
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
