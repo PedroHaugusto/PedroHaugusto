@@ -10,7 +10,7 @@ Atuei no desenvolvimento de soluções baseadas em arquitetura de microsserviço
 Além disso, sou certificado Scrum Foundation Professional Certification - SFPC™ pela CertiProf, o que reforça minha capacidade de atuar em times ágeis e entregar soluções de alto impacto.
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nest,react,aws)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nest,react,aws,azure)](https://skillicons.dev)
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
