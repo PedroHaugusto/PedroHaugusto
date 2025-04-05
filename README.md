@@ -3,11 +3,11 @@
 ## Bem vindo ao meu github
 
 ## Sobre Mim
-Desenvolvedor Full Stack com 3 anos de experiência, especializado em Java/Spring, Node.js/Express, NestJS e React. Tenho expertise na criação de APIs escaláveis e eficientes, além de um sólido histórico com Django.
+Sou Desenvolvedor FullStack com experiência em aplicações web escaláveis e de alta performance. Atuo com Java (Spring),Express, NestJS, React, entre outras tecnologias modernas, aplicando boas práticas como SOLID, Clean Architecture e DDD.
 
-Atuei no desenvolvimento de soluções baseadas em arquitetura de microsserviços, bem como na implementação de aplicações em nuvem utilizando Azure e AWS. Sou adepto dos princípios SOLID e Design Patterns, garantindo a criação de sistemas robustos, performáticos e bem estruturados.
+Tenho experiência com APIs RESTful, CI/CD, bancos relacionais, automações com Docker e deploy em ambientes como AWS, Render e Vercel.
 
-Além disso, sou certificado Scrum Foundation Professional Certification - SFPC™ pela CertiProf, o que reforça minha capacidade de atuar em times ágeis e entregar soluções de alto impacto.
+Além da parte técnica, atuo também na definição de soluções, gestão de projetos, levantamento de requisitos e estratégias de negócio. Sou certificado SFPC™ (Scrum Foundation) e movido por desafios que combinam tecnologia e impacto real.
 ### Skills
 
 [![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nest,react,aws,azure)](https://skillicons.dev)
