@@ -3,11 +3,7 @@
 ## Bem vindo ao meu github
 
 ## Sobre Mim
-Sou Desenvolvedor FullStack com experiência em aplicações web escaláveis e de alta performance. Atuo com Java (Spring),Express, NestJS, React, entre outras tecnologias modernas, aplicando boas práticas como SOLID, Clean Architecture e DDD.
-
-Tenho experiência com APIs RESTful, CI/CD, bancos relacionais, automações com Docker e deploy em ambientes como AWS, Render e Vercel.
-
-Além da parte técnica, atuo também na definição de soluções, gestão de projetos, levantamento de requisitos e estratégias de negócio. Sou certificado SFPC™ (Scrum Foundation) e movido por desafios que combinam tecnologia e impacto real.
+Sou Desenvolvedor Back-End com 3 anos de experiência em aplicações web escaláveis e de alta performance. Atuo com Java (Spring), Express, NestJS, React, entre outras tecnologias modernas, aplicando boas práticas como SOLID, Clean Architecture e DDD. Tenho experiência com APIs RESTful, CI/CD, bancos relacionais, automações com Docker e deploy em ambientes como AWS, Render e Vercel.
 ### Skills
 
 [![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nest,react,aws,azure)](https://skillicons.dev)
