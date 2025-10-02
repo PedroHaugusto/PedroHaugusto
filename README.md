@@ -3,7 +3,11 @@
 ## Bem vindo ao meu github
 
 ## Sobre Mim
-Sou Desenvolvedor Back-End com 3 anos de experiência em aplicações web escaláveis e de alta performance. Atuo com Java (Spring), Express, NestJS, React, entre outras tecnologias modernas, aplicando boas práticas como SOLID, Clean Architecture e DDD. Tenho experiência com APIs RESTful, CI/CD, bancos relacionais, automações com Docker e deploy em ambientes como AWS, Render e Vercel.
+Sou um desenvolvedor backend experiente com 3 anos de experiência. 
+
+Desde que comecei minha carreira, trabalhei com sistemas distribuídos usando microsserviços, monolitos, hospedagem em nuvem com AWS, Azure e Render, Testes unitários e diversas tecnologias como NodeJS, NestJS, React, Prisma, TypeORM, Java (Spring Boot), Python (Django), MongoDB, Postgres, Docker e muito mais.
+
+Apaixonado por construir aplicações escaláveis ​e de alto desempenho que causem impacto real. Eu prospero em ambientes dinâmicos e de ritmo acelerado e gosto de levar projetos desde a prototipação até o deploy.
 ### Skills
 
 [![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nest,react,aws,azure)](https://skillicons.dev)
