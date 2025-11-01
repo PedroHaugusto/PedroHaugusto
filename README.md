@@ -10,7 +10,7 @@ Desde que comecei minha carreira, trabalhei com sistemas distribuídos usando mi
 Apaixonado por construir aplicações escaláveis ​e de alto desempenho que causem impacto real. Eu prospero em ambientes dinâmicos e de ritmo acelerado e gosto de levar projetos desde a prototipação até o deploy.
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nest,react,aws,azure)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,nest,react,git,docker,aws,azure)](https://skillicons.dev)
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
