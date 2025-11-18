@@ -5,12 +5,12 @@
 ## Sobre Mim
 Sou um desenvolvedor backend experiente com 3 anos de experiência. 
 
-Desde que comecei minha carreira, trabalhei com sistemas distribuídos usando microsserviços, monolitos, hospedagem em nuvem com AWS, Azure e Render, Testes unitários e diversas tecnologias como NodeJS, NestJS, React, Prisma, TypeORM, Java (Spring Boot), Python (Django), MongoDB, Postgres, Docker e muito mais.
+Desde que comecei minha carreira, trabalheicom sistemas distribuídos usando microsserviços, monólitos, hospedagem em nuvem com AWS, Azure e Render, testes unitários e diversas tecnologias como Java (Spring Boot), NodeJS, NestJS, NextJS, Prisma, MongoDB, Postgres, Docker e muito mais.
 
-Apaixonado por construir aplicações escaláveis ​e de alto desempenho que causem impacto real. Eu prospero em ambientes dinâmicos e de ritmo acelerado e gosto de levar projetos desde a prototipação até o deploy.
+Apaixonado por construir aplicações escaláveis e de alto desempenho que causem impacto real. Eu prospero em ambientes dinâmicos e de ritmo acelerado e gosto de levar projetos desde a prototipação até o deploy.
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,ts,express,nest,jest,prisma,next,react,git,docker,aws,azure)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,express,nest,jest,prisma,next,react,git,docker,aws,azure)](https://skillicons.dev)
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
