@@ -5,7 +5,7 @@
 ## Sobre Mim
 Sou um desenvolvedor backend experiente com 3 anos de experiência. 
 
-Desde que comecei minha carreira, trabalheicom sistemas distribuídos usando microsserviços, monólitos, hospedagem em nuvem com AWS, Azure e Render, testes unitários e diversas tecnologias como Java (Spring Boot), NodeJS, NestJS, NextJS, Prisma, MongoDB, Postgres, Docker e muito mais.
+Desde que comecei minha carreira, trabalhei com sistemas distribuídos usando microsserviços, monólitos, hospedagem em nuvem com AWS, Azure e Render, testes unitários e diversas tecnologias como Java (Spring Boot), NodeJS, NestJS, NextJS, Prisma, MongoDB, Postgres, Docker e muito mais.
 
 Apaixonado por construir aplicações escaláveis e de alto desempenho que causem impacto real. Eu prospero em ambientes dinâmicos e de ritmo acelerado e gosto de levar projetos desde a prototipação até o deploy.
 ### Skills
