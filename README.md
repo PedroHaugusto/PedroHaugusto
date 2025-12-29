@@ -3,11 +3,11 @@
 ## Bem vindo ao meu github
 
 ## Sobre Mim
-Sou um desenvolvedor backend experiente com 3 anos de experiência. 
+Sou desenvolvedor backend com 3 anos de experiência, apaixonado por inovação e por transformar ideias em soluções técnicas que geram impacto real. Ao longo da minha carreira, atuei no desenvolvimento de sistemas distribuídos, trabalhando com microsserviços e monólitos, além de hospedagem em nuvem utilizando AWS, Azure e Render.
 
-Desde que comecei minha carreira, trabalhei com sistemas distribuídos usando microsserviços, monólitos, hospedagem em nuvem com AWS, Azure e Render, testes unitários e diversas tecnologias como Java (Spring Boot), NodeJS, NestJS, NextJS, Prisma, MongoDB, Postgres, Docker e muito mais.
+Tenho experiência com testes unitários, containerização com Docker e tecnologias como Java (Spring Boot), Node.js, NestJS, Next.js, Prisma, MongoDB e PostgreSQL. Gosto de construir aplicações escaláveis, performáticas e bem estruturadas, sempre seguindo boas práticas de arquitetura e código limpo.
 
-Apaixonado por construir aplicações escaláveis e de alto desempenho que causem impacto real. Eu prospero em ambientes dinâmicos e de ritmo acelerado e gosto de levar projetos desde a prototipação até o deploy.
+Me sinto confortável em ambientes dinâmicos e de ritmo acelerado, colaborando com times para levar projetos desde a prototipação até o deploy em produção, sempre buscando evolução contínua e aprendizado constante.
 ### Skills
 
 [![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,express,nest,jest,prisma,next,react,git,docker,aws,azure)](https://skillicons.dev)
