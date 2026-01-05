@@ -3,7 +3,7 @@
 ## Bem vindo ao meu github
 
 ## Sobre Mim
-Sou desenvolvedor backend com 4 anos de experiência, apaixonado por inovação e por transformar ideias em soluções técnicas que geram impacto real. Ao longo da minha carreira, atuei no desenvolvimento de sistemas distribuídos, trabalhando com microsserviços e monólitos, além de hospedagem em nuvem utilizando AWS, Azure e Render.
+Sou desenvolvedor backend com 4 anos de experiência, apaixonado por inovação e por transformar ideias em soluções técnicas que geram impacto real. Ao longo da minha carreira, atuei no desenvolvimento de sistemas distribuídos, trabalhando com microsserviços e monólitos, além de hospedagem em nuvem utilizando AWS, Azure, Hostinger e Render.
 
 Tenho experiência com testes unitários, containerização com Docker e tecnologias como Java (Spring Boot), Node.js, NestJS, Next.js, Prisma, MongoDB e PostgreSQL. Gosto de construir aplicações escaláveis, performáticas e bem estruturadas, sempre seguindo boas práticas de arquitetura e código limpo.
 
