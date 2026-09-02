@@ -3,16 +3,16 @@
 ## Bem vindo ao meu github
 
 ## Sobre Mim
-Desenvolvedor Back-End com 4 anos de experiência em Java, Spring Boot, Node.js e NestJS, atuando no desenvolvimento de microsserviços, APIs REST e integrações para sistemas de alta disponibilidade.
+Desenvolvedor de Software com 4 anos de experiência, no desenvolvimento de APIs REST e GraphQL, com PostgreSQL, Docker, AWS e mensageria (Kafka, BullMQ, SQS). Experiência sólida em Java e Spring Boot no mercado financeiro, com arquitetura de microsserviços, modernização de sistemas legados e resolução de incidentes críticos em produção. 
 
-Tenho experiência em arquitetura de aplicações, integrações REST e GraphQL, Docker, AWS, PostgreSQL, MongoDB, Redis e testes automatizados, sempre focado em código limpo, escalabilidade e manutenção.
+Tenho experiência em arquitetura de aplicações, integrações REST e GraphQL, Docker, AWS, PostgreSQL, MongoDB, Redis e testes automatizados, com foco em código limpo, escalabilidade, confiabilidade e manutenção.
 
-Ao longo da minha trajetória participei da evolução de sistemas críticos, migração de funcionalidades legadas para microsserviços e implementação de soluções que suportam ambientes de produção com alta demanda.
+Também atuo com desenvolvimento assistido por IA, utilizando agentes especializados, Claude Code, MCP e workflows para apoiar análise de código, implementação de funcionalidades, testes, debugging, refatoração e code review, integrando IA ao processo de engenharia de software.
 
-Estou em busca de desafios como Desenvolvedor Back-End, contribuindo com soluções robustas, colaborando com equipes de engenharia e evoluindo continuamente como profissional.
+Ao longo da minha trajetória, participei da evolução de sistemas críticos, migração de funcionalidades legadas para microsserviços e implementação de soluções para ambientes de produção com alta demanda.
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,express,nest,jest,prisma,next,react,git,docker,aws,azure)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,aws,typescript,nestjs,angular,kafka,redis,docker)](https://skillicons.dev)
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
