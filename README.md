@@ -12,7 +12,7 @@ Também atuo com desenvolvimento assistido por IA, utilizando agentes especializ
 Ao longo da minha trajetória, participei da evolução de sistemas críticos, migração de funcionalidades legadas para microsserviços e implementação de soluções para ambientes de produção com alta demanda.
 ### Skills
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,aws,typescript,nestjs,angular,kafka,redis,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,aws,typescript,nestjs,angular,kafka,redis,jenkins,docker)](https://skillicons.dev)
 
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
