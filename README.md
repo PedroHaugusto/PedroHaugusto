@@ -12,7 +12,7 @@ Construo e mantenho APIs e sistemas distribuídos em produção — e integro ag
 
 ## Sobre
 
-Desenvolvedor de software com 4 anos de experiência em APIs REST e GraphQL, atuando principalmente com **Java e Spring Boot no mercado financeiro** — arquitetura de microsserviços, modernização de sistemas legados e resolução de incidentes críticos em produção.
+Desenvolvedor de software com mais de 3 anos de experiência em APIs REST e GraphQL, atuando principalmente com **Java e Spring Boot no mercado financeiro** — arquitetura de microsserviços, modernização de sistemas legados e resolução de incidentes críticos em produção.
 
 Trabalho com PostgreSQL, MongoDB, Redis, Docker, AWS e mensageria (Kafka, SQS, BullMQ), com foco em código limpo, escalabilidade e confiabilidade.
 
