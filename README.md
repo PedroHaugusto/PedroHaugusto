@@ -27,10 +27,10 @@ Integro agentes de IA ao processo de engenharia, não como autocomplete, mas com
 
 ## Stack
 
-**Backend** — Java · Spring Boot · Node.js · NestJS · GraphQL · REST
-**Dados** — PostgreSQL · MongoDB · Redis
-**Infra & mensageria** — AWS · Docker · Kafka · SQS · Jenkins · GitHub Actions
-**Frontend** — Angular · TypeScript · Next.js
+**Backend** — Java · Spring Boot · Node.js · NestJS · GraphQL · REST\
+**Dados** — PostgreSQL · MongoDB · Redis\
+**Infra & mensageria** — AWS · Docker · Kafka · SQS · Jenkins · GitHub Actions\
+**Frontend** — Angular · TypeScript · Next.js\
 **IA** — Claude Code · MCP · Agentes · Prompt engineering
 
 [![Skills](https://skillicons.dev/icons?i=java,spring,aws,typescript,nestjs,angular,kafka,redis,jenkins,docker,postgres,mongodb)](https://skillicons.dev)
