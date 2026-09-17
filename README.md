@@ -3,10 +3,10 @@
 **Software Engineer · Java · Spring Boot · Microsserviços**
 Construo e mantenho APIs e sistemas distribuídos em produção — e integro agentes de IA ao ciclo de engenharia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohaugusto/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohaugusto12@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pedrohaugustodev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/PedroHaugustoDev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/pedrohaugusto/)
+[![E-mail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pedrohaugusto12@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@pedrohaugusto12)
+[![HackerRank](https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/pedrohaugusto12)
 
 ---
 
