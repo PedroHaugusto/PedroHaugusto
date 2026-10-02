@@ -12,22 +12,6 @@
 
 ---
 
-## Sobre mim
-
-Desenvolvo backend em **Java, Kotlin e Spring Boot** para sistemas críticos que atendem mais de **8 milhões de tags ativas**. Meu foco é estabilidade em produção: investigo incidentes até a causa raiz e construo integrações confiáveis entre serviços distribuídos.
-
-- Atualmente: sistemas de pagamento e mobilidade (Vale-Pedágio, faturas, parcerias)
-- Interesses: microsserviços, arquitetura orientada a eventos e modernização de sistemas legados
-- Buscando: oportunidades como Desenvolvedor Backend Java, Kotlin e Spring Boot
-
-## Alguns resultados
-
-- Reduzi em **18%** o transbordo para atendente humano na URA de Vale-Pedágio, com APIs de elegibilidade e roteamento cobertas por **98%** de testes unitários
-- Eliminei falhas recorrentes no envio de faturas de cartão que impactavam em média **6.000 clientes**
-- Padronizei a arquitetura de **12 serviços**, migrando de Node.js/AWS Lambda para Java e automatizando **100%** dos deploys com CI/CD
-- Migrei **3 microsserviços** de Java para Kotlin sem downtime
-- Processei **3 mil eventos/dia** em arquitetura orientada a eventos com Kafka e RabbitMQ
-
 ## Stack
 
 **Linguagens e frameworks**
